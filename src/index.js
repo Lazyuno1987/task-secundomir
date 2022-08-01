@@ -14,9 +14,9 @@ waitBtn.ondblclick = wait
 stopBtn.addEventListener('click', stop)
 resetBtn.addEventListener('click', reset)
 
-let minute = 00;
-let seconds = 00;
-let miliseconds = 00;
+let minute = 0;
+let seconds = 0;
+let miliseconds = 0;
 let interval;
 
 
